@@ -13,7 +13,7 @@ We have used different commands in order to practice the commands and for that I
 Others working with me are \
 [Absar San](https://github.com/AbsarRahmanBjit) 
 [Tanjila-Nur](https://github.com/Tanjila-Nur)
-and many morea
+and many more
 
 
 
