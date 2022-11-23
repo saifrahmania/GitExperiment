@@ -1,5 +1,3 @@
-# GitPractice
-
 This Repository has been created to practice different commands of git commands
 
 ## What we have done here
