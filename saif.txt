@@ -3,3 +3,5 @@ this file contains something special
 Conflicts has been reviewed 
 
 Jabbar Uzzaman is adding something 
+
+Conflict Checked
